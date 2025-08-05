@@ -1,7 +1,7 @@
 {
-  "name": "KAVINDU-MD",
-  "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ Kavindu Pawan · · ·",
-  "logo": "https://cdn.corenexis.com/file?1959643168.jpg",
+  "name": "LARA-MD",
+  "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
+  "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,13 +16,13 @@
     "OWNER_NUMBER": {
       "description": "Set your owner number",
       "required": true,
-      "value": "94761081292"
+      "value": "94779062397"
     },
 
     "DEV": {
       "description": "Bot Developer Numeber",
       "required": true,
-      "value": "94786313032"
+      "value": "94779062397"
     },
     
     "PREFIX": {
@@ -64,7 +64,7 @@
     "STATUS_REPLY_MSG": {
       "description": "Statues reply msg",
       "required": true,
-      "value": "*_`AUTO STATUS JUST NOW SEEN BY KAVINDU MD`_*"
+      "value": "*_`AUTO STATUS JUST NOW SEEN BY LARA MD`_*"
     },
     
     "AUTO_STATUS_REACT": {
